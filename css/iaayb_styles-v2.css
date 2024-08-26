@@ -745,15 +745,14 @@ footer {
 
     .featured-book img {
         box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3); /* Shadow for depth */
-        z-index: 1; /* Ensure the image is above the pseudo-element */
+        /* z-index: 1; */ /* Ensure the image is above the pseudo-element */
         border: 2px solid #B8860B; /* Gold frame border */
         padding: 0;
         background-color: #fff; /* White background to simulate matting */
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
         margin-top: 5px;
-        width: 0%;
+        width: 90%;
         height: auto;
-
     }
 
     .navbar-toggler {

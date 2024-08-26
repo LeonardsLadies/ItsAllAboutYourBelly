@@ -42,6 +42,8 @@ document.getElementById('navbar').innerHTML = `
                 <li><a class="dropdown-item" href="featured.html">Featured</a></li>
                 <li><a class="dropdown-item" href="fantasy-fest.html">Fanatsy Fest</a></li>
                 <li><a class="dropdown-item" href="performances-pg-1.html">Performances</a></li>
+                <li><a class="dropdown-item" href="performances-pg-2.html">More Performances</a></li>
+                <li><a class="dropdown-item" href="tv-appearances.html">TV Appearances</a></li>
                 </ul>
             </li>
 

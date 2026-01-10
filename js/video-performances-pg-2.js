@@ -4,19 +4,9 @@ document.addEventListener("DOMContentLoaded", function() {
     // Array of additional video URLs
     const videos = [
         {
-            url: "https://youtu.be/BaNZRI0uQi4",
-            thumbnail: "https://img.youtube.com/vi/BaNZRI0uQi4/hqdefault.jpg",
-            title: "Voulez Vou<br>St. Pete"
-        },
-        {
             url: "https://youtu.be/WrvhcOIYJXU",
             thumbnail: "https://img.youtube.com/vi/WrvhcOIYJXU/hqdefault.jpg",
             title: "Voulez Vou<br>Palentines Show"
-        },
-        {
-            url: "https://youtu.be/yQtd1kDPamE",
-            thumbnail: "https://img.youtube.com/vi/yQtd1kDPamE/hqdefault.jpg",
-            title: "Rabiosa<br>Greek Hafla"
         },
         {
             url: "https://youtu.be/Hd7f_bf78ZE",
@@ -42,6 +32,16 @@ document.addEventListener("DOMContentLoaded", function() {
             url: "https://youtu.be/FeJRYLvxFpk",
             thumbnail: "https://img.youtube.com/vi/FeJRYLvxFpk/hqdefault.jpg",
             title: "Santa Baby<br>Russian Hafla"
+        },
+        {
+        url: "https://youtu.be/by841xK4t-k",
+        thumbnail: "https://img.youtube.com/vi/by841xK4t-k/hqdefault.jpg",
+        title: "Voulez-Vous<br>Oldsmar Talent Show"
+        },
+        {
+        url: "https://youtu.be/2ESs9pAnKHM",
+        thumbnail: "https://img.youtube.com/vi/2ESs9pAnKHM/hqdefault.jpg",
+        title: "Milk & Honey<br>Spring Hafla"
         }
     ];
 
@@ -68,3 +68,4 @@ document.addEventListener("DOMContentLoaded", function() {
         galleryContainer.appendChild(colDiv);
     });
 });
+

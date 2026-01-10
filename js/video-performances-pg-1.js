@@ -42,26 +42,6 @@ document.addEventListener("DOMContentLoaded", function() {
             url: "https://youtu.be/AQTzPlDu3Uk",
             thumbnail: "https://img.youtube.com/vi/AQTzPlDu3Uk/hqdefault.jpg",
             title: "Samba<br>Ren Faire"
-        },
-        {
-            url: "https://youtu.be/yO64U0d2fVI",
-            thumbnail: "https://img.youtube.com/vi/yO64U0d2fVI/hqdefault.jpg",
-            title: "The Rock<br>Greek Hafla"
-        },
-        {
-            url: "https://youtu.be/96lU0ZwfhA0",
-            thumbnail: "https://img.youtube.com/vi/96lU0ZwfhA0/hqdefault.jpg",
-            title: "Rabiosa<br>Jasmine Moon Hafla"
-        },
-        {
-            url: "https://youtu.be/q1WaC6g0smo",
-            thumbnail: "https://img.youtube.com/vi/q1WaC6g0smo/hqdefault.jpg",
-            title: "Tres Mundos<br>Greek Hafla"
-        },
-        {
-            url: "https://youtu.be/asuKQrBxEyQ",
-            thumbnail: "https://img.youtube.com/vi/asuKQrBxEyQ/hqdefault.jpg",
-            title: "Leonard's Ladies<br>Oldsmar Park"
         }
     ];
 
@@ -88,3 +68,4 @@ document.addEventListener("DOMContentLoaded", function() {
         galleryContainer.appendChild(colDiv);
     });
 });
+

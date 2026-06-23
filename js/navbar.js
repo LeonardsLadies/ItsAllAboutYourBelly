@@ -37,7 +37,7 @@ document.getElementById('navbar').innerHTML = `
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="performances-pg-1.html">Performances</a>
+                    <a class="nav-link" href="video-performances.html">Performances</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="tv-appearances.html">TV Spotlights</a>

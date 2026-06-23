@@ -11,9 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { url: "https://youtu.be/-tEwNn0-pwA", thumbnail: "https://img.youtube.com/vi/-tEwNn0-pwA/hqdefault.jpg", title: "Country Fusion<br>Greek Hafla" },
         { url: "https://youtu.be/XktITc3CMVk", thumbnail: "https://img.youtube.com/vi/XktITc3CMVk/hqdefault.jpg", title: "Thriller<br>Oldsmar Talent Show" },
         { url: "https://youtu.be/ihWAwfFjPSU", thumbnail: "https://img.youtube.com/vi/W7JkozPkCWQ/ihWAwfFjPSU.jpg", title: "Voulez Vou<br>Ren Faire" },
-        
-        { url: "https://youtu.be/ihWAwfFjPSU", thumbnail: "https://img.youtube.com/vi/j3kOrEKzwrA/hqdefault.jpg", title: "Folkloric<br>Ren Faire" },
-        
+        { url: "https://youtu.be/ihWAwfFjPSU", thumbnail: "https://img.youtube.com/vi/j3kOrEKzwrA/ihWAwfFjPSU.jpg", title: "Folkloric<br>Ren Faire" },
         { url: "https://youtu.be/AQTzPlDu3Uk", thumbnail: "https://img.youtube.com/vi/AQTzPlDu3Uk/hqdefault.jpg", title: "Samba<br>Ren Faire" },
         { url: "https://youtu.be/WrvhcOIYJXU", thumbnail: "https://img.youtube.com/vi/WrvhcOIYJXU/hqdefault.jpg", title: "Voulez Vou<br>Palentines Show" },
         { url: "https://youtu.be/u1MCNmxrkiw", thumbnail: "https://img.youtube.com/vi/u1MCNmxrkiw/hqdefault.jpg", title: "Rythm<br>Palentine's Show" },        

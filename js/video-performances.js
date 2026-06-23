@@ -2,6 +2,8 @@ document.addEventListener("DOMContentLoaded", function() {
     const galleryContainer = document.getElementById('gallery');
 
     const videos = [
+        
+        { url: "https://youtu.be/QhB6DI0zuC0", thumbnail: "https://img.youtube.com/vi/QhB6DI0zuC0/hqdefault.jpg", title: "Cant Stop the Feeling Thai 5 DJs Hafla" },
         { url: "https://youtu.be/NoeuI8PJ-Nc", thumbnail: "https://img.youtube.com/vi/NoeuI8PJ-Nc/hqdefault.jpg", title: "Iko Iko<br>Under the Sea Hafla" },
         { url: "https://youtu.be/7oCSdcDf3mo", thumbnail: "https://img.youtube.com/vi/7oCSdcDf3mo/hqdefault.jpg", title: "Viking<br>Sping Hafla" },
         { url: "https://youtu.be/5HLnoWRLMMg", thumbnail: "https://img.youtube.com/vi/5HLnoWRLMMg/hqdefault.jpg", title: "I'm on Fire!!<br>Spring Hafla" },
@@ -16,7 +18,6 @@ document.addEventListener("DOMContentLoaded", function() {
         { url: "https://youtu.be/W7JkozPkCWQ", thumbnail: "https://img.youtube.com/vi/W7JkozPkCWQ/hqdefault.jpg", title: "Voulez Vou<br>Palentine's Show" },
         { url: "https://youtu.be/KatF1QD_YkI", thumbnail: "https://img.youtube.com/vi/KatF1QD_YkI/hqdefault.jpg", title: "Folkloric<br>Oldsmar Talent Show" },
         { url: "https://youtu.be/FeJRYLvxFpk", thumbnail: "https://img.youtube.com/vi/FeJRYLvxFpk/hqdefault.jpg", title: "Santa Baby<br>Russian Hafla" },
-        { url: "https://youtu.be/by841xK4t-k", thumbnail: "https://img.youtube.com/vi/by841xK4t-k/hqdefault.jpg", title: "Voulez-Vous<br>Oldsmar Talent Show" },
         { url: "https://youtu.be/2ESs9pAnKHM", thumbnail: "https://img.youtube.com/vi/2ESs9pAnKHM/hqdefault.jpg", title: "Milk & Honey<br>Spring Hafla" }
     ];
 

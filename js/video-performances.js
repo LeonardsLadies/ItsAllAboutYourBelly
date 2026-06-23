@@ -14,7 +14,9 @@ document.addEventListener("DOMContentLoaded", function() {
         { url: "https://youtu.be/AQTzPlDu3Uk", thumbnail: "https://img.youtube.com/vi/AQTzPlDu3Uk/hqdefault.jpg", title: "Samba<br>Ren Faire" },
         { url: "https://youtu.be/WrvhcOIYJXU", thumbnail: "https://img.youtube.com/vi/WrvhcOIYJXU/hqdefault.jpg", title: "Voulez Vou<br>Palentines Show" },
         { url: "https://youtu.be/u1MCNmxrkiw", thumbnail: "https://img.youtube.com/vi/u1MCNmxrkiw/hqdefault.jpg", title: "Rythm<br>Palentine's Show" },
+        
         { url: "https://youtu.be/W7JkozPkCWQ", thumbnail: "https://img.youtube.com/vi/W7JkozPkCWQ/hqdefault.jpg", title: "Superstars<br>Palentine's Show" },
+        
         { url: "https://youtu.be/W7JkozPkCWQ", thumbnail: "https://img.youtube.com/vi/W7JkozPkCWQ/hqdefault.jpg", title: "Voulez Vou<br>Palentine's Show" },
         { url: "https://youtu.be/KatF1QD_YkI", thumbnail: "https://img.youtube.com/vi/KatF1QD_YkI/hqdefault.jpg", title: "Folkloric<br>Oldsmar Talent Show" },
         { url: "https://youtu.be/FeJRYLvxFpk", thumbnail: "https://img.youtube.com/vi/FeJRYLvxFpk/hqdefault.jpg", title: "Santa Baby<br>Russian Hafla" },

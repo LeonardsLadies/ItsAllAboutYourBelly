@@ -3,10 +3,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const videos = [
         
-        { url: "https://youtu.be/QhB6DI0zuC0", thumbnail: "https://img.youtube.com/vi/QhB6DI0zuC0/hqdefault.jpg", title: "Can\'t Stop the Feeling Thai 5 DJs Hafla" },
-        { url: "https://youtu.be/NoeuI8PJ-Nc", thumbnail: "https://img.youtube.com/vi/NoeuI8PJ-Nc/hqdefault.jpg", title: "Iko Iko<br>Under the Sea Hafla" },
-        { url: "https://youtu.be/7oCSdcDf3mo", thumbnail: "https://img.youtube.com/vi/7oCSdcDf3mo/hqdefault.jpg", title: "Viking<br>Sping Hafla" },
-        { url: "https://youtu.be/5HLnoWRLMMg", thumbnail: "https://img.youtube.com/vi/5HLnoWRLMMg/hqdefault.jpg", title: "I'm on Fire!!<br>Spring Hafla" },
+        { url: "https://youtu.be/QhB6DI0zuC0", thumbnail: "https://img.youtube.com/vi/QhB6DI0zuC0/hqdefault.jpg", title: "Can\'t Stop the Feeling Thai 5 DJ\'s Hafla" },
+        { url: "https://youtu.be/NoeuI8PJ-Nc", thumbnail: "https://img.youtube.com/vi/NoeuI8PJ-Nc/hqdefault.jpg", title: "Iko Iko<br>DJ\'s Under the Sea Hafla" },
+        { url: "https://youtu.be/7oCSdcDf3mo", thumbnail: "https://img.youtube.com/vi/7oCSdcDf3mo/hqdefault.jpg", title: "Viking<br>DJ\'s Sping Hafla" },
+        { url: "https://youtu.be/5HLnoWRLMMg", thumbnail: "https://img.youtube.com/vi/5HLnoWRLMMg/hqdefault.jpg", title: "I'm on Fire!!<br>DJ\'s Spring Hafla" },
         { url: "https://youtu.be/4b8osGhImyo", thumbnail: "https://img.youtube.com/vi/4b8osGhImyo/hqdefault.jpg", title: "Drums<br>Ren Faire" },
         { url: "https://youtu.be/-tEwNn0-pwA", thumbnail: "https://img.youtube.com/vi/-tEwNn0-pwA/hqdefault.jpg", title: "Country Fusion<br>Greek Hafla" },
         { url: "https://youtu.be/XktITc3CMVk", thumbnail: "https://img.youtube.com/vi/XktITc3CMVk/hqdefault.jpg", title: "Thriller<br>Oldsmar Talent Show" },

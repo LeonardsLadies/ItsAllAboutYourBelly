@@ -19,7 +19,7 @@ document.getElementById('navbar').innerHTML = `
                     </ul>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="video-performances.html">Performances</a></li>
-                <li class="nav-item"><a class="nav-link" href="tv-appearances.html">TV Spotlights</a></li>
+                <li class="nav-item"><a class="nav-link" href="tv-appearances.html">Spotlights</a></li>
                 <li class="nav-item"><a class="nav-link" href="testimonials.html">Testimonials</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Connect</a></li>
             </ul>

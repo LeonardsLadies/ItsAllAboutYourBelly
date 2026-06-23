@@ -31,7 +31,7 @@ document.getElementById('navbar').innerHTML = `
                 </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="classes.html">Classes</a>
+                <a class="nav-link" href="ArtForms.html">Art Forms</a>
             </li>
 
                 <li class="nav-item dropdown">

@@ -15,7 +15,7 @@ document.getElementById('navbar').innerHTML = `
                     <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
                         <li><a class="dropdown-item" href="Janets-Story.html">Janet's Story</a></li>
                         <li><a class="dropdown-item" href="Our-History.html">Our History</a></li>
-                        <li><a class="dropdown-item" href="benefits.html">Bellydance Benefits/a></li>
+                        <li><a class="dropdown-item" href="benefits.html">Bellydance Benefits</a></li>
                     </ul>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="video-performances.html">Performances</a></li>

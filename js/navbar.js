@@ -18,7 +18,7 @@ document.getElementById('navbar').innerHTML = `
                         <li><a class="dropdown-item" href="benefits.html">Benefits</a></li>
                     </ul>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="video-performances.html">Performances</a></li>
+                <li class="nav-item"><a class="nav-link" href="video-performances.html">Shows</a></li>
                 <li class="nav-item"><a class="nav-link" href="tv-appearances.html">Spotlights</a></li>
                 <li class="nav-item"><a class="nav-link" href="testimonials.html">Testimonials</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Connect</a></li>
